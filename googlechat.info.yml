@@ -1,0 +1,6 @@
+name: Google Chat
+type: module
+description: This chat module enables you to seamlessly integrate Gmail/Facebook style chat into your existing website.
+package: Chat
+dependencies:
+  - jquery_update (>=8.0.4)
